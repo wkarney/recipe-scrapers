@@ -1,8 +1,8 @@
 .. image:: https://img.shields.io/pypi/v/recipe-scrapers.svg?
     :target: https://pypi.org/project/recipe-scrapers/
     :alt: Version
-.. image:: https://travis-ci.org/hhursev/recipe-scrapers.svg?branch=master
-    :target: https://travis-ci.org/hhursev/recipe-scrapers
+.. image:: https://travis-ci.com/hhursev/recipe-scrapers.svg?branch=master
+    :target: https://travis-ci.com/hhursev/recipe-scrapers
     :alt: Travis
 .. image:: https://coveralls.io/repos/hhursev/recipe-scraper/badge.svg?branch=master&service=github
     :target: https://coveralls.io/github/hhursev/recipe-scraper?branch=master
@@ -77,6 +77,7 @@ Scrapers available for:
 - `https://cookstr.com/ <https://cookstr.com>`_
 - `https://copykat.com/ <https://copykat.com>`_
 - `https://countryliving.com/ <https://countryliving.com>`_
+- `https://cuisineaz.com/ <https://cuisineaz.com>`_
 - `https://cybercook.com.br/ <https://cybercook.com.br/>`_
 - `https://delish.com/ <https://delish.com>`_
 - `https://domesticate-me.com/ <https://domesticate-me.com/>`_
@@ -139,6 +140,7 @@ Scrapers available for:
 - `https://seriouseats.com/ <https://seriouseats.com>`_
 - `https://simplyquinoa.com/ <https://simplyquinoa.com>`_
 - `https://simplyrecipes.com/ <https://simplyrecipes.co>`_
+- `https://simplywhisked.com/ <https://simplywhisked.com>`_
 - `https://skinnytaste.com/ <https://www.skinnytaste.com>`_
 - `https://southernliving.com/ <https://southernliving.com/>`_
 - `https://spendwithpennies.com/ <https://spendwithpennies.com/>`_

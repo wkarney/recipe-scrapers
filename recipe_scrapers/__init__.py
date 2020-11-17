@@ -22,6 +22,7 @@ from .cookpad import CookPad
 from .cookstr import Cookstr
 from .copykat import CopyKat
 from .countryliving import CountryLiving
+from .cuisineaz import CuisineAZ
 from .cybercook import Cybercook
 from .delish import Delish
 from .domesticateme import DomesticateMe
@@ -82,6 +83,7 @@ from .realsimple import RealSimple
 from .seriouseats import SeriousEats
 from .simplyquinoa import SimplyQuinoa
 from .simplyrecipes import SimplyRecipes
+from .simplywhisked import SimplyWhisked
 from .skinnytaste import SkinnyTaste
 from .southernliving import SouthernLiving
 from .spendwithpennies import SpendWithPennies
@@ -129,6 +131,7 @@ SCRAPERS = {
     Cookstr.host(): Cookstr,
     CopyKat.host(): CopyKat,
     CountryLiving.host(): CountryLiving,
+    CuisineAZ.host(): CuisineAZ,
     Cybercook.host(): Cybercook,
     Delish.host(): Delish,
     DomesticateMe.host(): DomesticateMe,
@@ -195,6 +198,7 @@ SCRAPERS = {
     SeriousEats.host(): SeriousEats,
     SimplyQuinoa.host(): SimplyQuinoa,
     SimplyRecipes.host(): SimplyRecipes,
+    SimplyWhisked.host(): SimplyWhisked,
     SkinnyTaste.host(): SkinnyTaste,
     SouthernLiving.host(): SouthernLiving,
     SpendWithPennies.host(): SpendWithPennies,
